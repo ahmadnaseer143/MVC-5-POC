@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.title = "People List";
+}
+
+<h1>People List</h1>
+
+<p>
+    <a asp-controller="Person" asp-action="AddPerson">Add Person</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Is Alive</th>
+            <th></th> <!-- Column for Edit and Delete options -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model)
+        {
+            <tr>
+                <td>@person.Id</td>
+                <td>@person.Name</td>
+                <td>@person.Age</td>
+                <td>@(person.IsAlive ? "Yes" : "No")</td>
+                <td>
+                    <a asp-controller="Person" asp-action="EditPerson" asp-route-id="@person.Id">Edit</a> |
+                    <a asp-controller="Person" asp-action="DeletePerson" asp-route-id="@person.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

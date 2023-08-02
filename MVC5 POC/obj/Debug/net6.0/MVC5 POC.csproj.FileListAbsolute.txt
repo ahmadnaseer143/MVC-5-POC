@@ -1,0 +1,31 @@
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\MVC5 POC.csproj.AssemblyReference.cache
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\MVC5 POC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\MVC5 POC.AssemblyInfoInputs.cache
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\MVC5 POC.AssemblyInfo.cs
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\MVC5 POC.csproj.CoreCompileInputs.cache
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\MVC5 POC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\MVC5 POC.RazorAssemblyInfo.cache
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\MVC5 POC.RazorAssemblyInfo.cs
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\bin\Debug\net6.0\appsettings.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\bin\Debug\net6.0\MVC5 POC.staticwebassets.runtime.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\bin\Debug\net6.0\MVC5 POC.exe
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\bin\Debug\net6.0\MVC5 POC.deps.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\bin\Debug\net6.0\MVC5 POC.runtimeconfig.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\bin\Debug\net6.0\MVC5 POC.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\bin\Debug\net6.0\MVC5 POC.pdb
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\staticwebassets\msbuild.MVC5 POC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC5 POC.props
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC5 POC.props
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC5 POC.props
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\scopedcss\bundle\MVC5 POC.styles.css
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\scopedcss\projectbundle\MVC5 POC.bundle.scp.css
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\MVC5 POC.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\refint\MVC5 POC.dll
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\MVC5 POC.pdb
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\MVC5 POC.genruntimeconfig.cache
+C:\Users\Naseer.Ahmad2\Desktop\Workspace\MVC5 POC\MVC5 POC\obj\Debug\net6.0\ref\MVC5 POC.dll

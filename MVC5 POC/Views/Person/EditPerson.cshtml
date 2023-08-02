@@ -1,0 +1,22 @@
+﻿@model MVC5_POC.Models.PersonModel
+
+<h2>Edit Person</h2>
+
+@using (Html.BeginForm("EditPerson", "Person", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.Id)
+
+    <div>
+        @Html.LabelFor(model => model.Name)
+        @Html.TextBoxFor(model => model.Name)
+    </div>
+    <div>
+        @Html.LabelFor(model => model.Age)
+        @Html.TextBoxFor(model => model.Age)
+    </div>
+    <div>
+        @Html.LabelFor(model => model.IsAlive)
+        @Html.CheckBoxFor(model => model.IsAlive)
+    </div>
+    <input type="submit" value="Save" />
+}

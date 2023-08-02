@@ -1,0 +1,12 @@
+﻿@model MVC5_POC.Models.PersonModel
+
+<h2>Delete Person</h2>
+
+<p>Are you sure you want to delete the person with ID: @Model.Id, and Name: @Model.Name?</p>
+
+@using (Html.BeginForm("DeletePerson", "Person", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.Id)
+    <input type="hidden" name="confirm" value="Yes" />
+    <input type="submit" value="Delete" />
+}
